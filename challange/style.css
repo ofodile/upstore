@@ -97,7 +97,7 @@ span{
    .upper{
        margin: 0;
        width: 90%;
-       margin-left: auto;
-       margin-right: 10px;
+       margin-left: 20px;
+       margin-right: 20px;
    }
 }
