@@ -76,17 +76,26 @@ span{
 
 @media screen and (max-width:600px) {
     body{
-        margin-left: 30px;
-        margin-right: 30px;
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-top: 0;
+        margin-bottom: 20px;
     }
+
     .con{
         display: inline;
-        margin-left: 100px;
+        margin-left: 500px;
+    }
 
-
+   .why, .sub{
+        margin-left: 40px;
+        width: 55%;
+        padding-bottom: 15px;
     }
 
    .upper{
        margin: 0;
+       width: 70%;
+       margin-left: 40px;
    }
 }
