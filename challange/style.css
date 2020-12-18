@@ -38,7 +38,7 @@ p{
 .why{
     width: 50%;
     height: 200px;
-    background: hsl(71, 73%, 54%);
+    background:hsl(179, 42%, 53%);
     color: white;
     margin: 0px;
     padding-left: 40px;
@@ -51,7 +51,7 @@ button{
     height: 45px;
     margin-right: 10px;
     margin-top: 5px;
-    background:  hsl(71, 70%, 33%);
+    background:  hsl(71, 73%, 54%);
     padding-left: 10px;
     border-radius: 5px;
     border: none;
